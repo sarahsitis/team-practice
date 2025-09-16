@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard</title>
-</head>
-<body>
-    <h1>Dashboard</h1>
-</body>
+<!DOCTYE html>
+<html lang="en"
+<hed>
+    <meta charset="UTF-h, initial-scale=1.0"
+    <titleDashboard</title
+</hed>
+<bdy>
+    <1>ashboard</1>
+</bdy>
 </html>
